@@ -25,3 +25,12 @@
 * The text area gets expanded and a **"+"** button to add the note also appears. The user now have an option to add a title as well
 * When user enters something in the note and click on **"+"**, a new tile of note gets created with a delete button
 * A user can also delete the note when they click on the delete button
+
+# Screenshots
+![](images/initial-page.png)
+
+![](images/user-click.png)
+
+![](images/add-notes.png)
+
+![](images/delete-notes.png)
