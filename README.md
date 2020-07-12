@@ -27,10 +27,14 @@
 * A user can also delete the note when they click on the delete button
 
 # Screenshots
+* **Initial Page**
 ![](images/initial-page.png)
 
+* **Note Area Expands**
 ![](images/user-click.png)
 
+* **Add Notes**
 ![](images/add-notes.png)
 
+* **Delete one note**
 ![](images/delete-notes.png)
